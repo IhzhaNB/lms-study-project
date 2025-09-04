@@ -61,8 +61,6 @@ Below is a categorized list of the available components, with direct links to th
 12. [**toggle**](https://ui.shadcn.com/docs/components/toggle): A two-state button that can be either on or off.
 13. [**tooltip**](https://ui.shadcn.com/docs/components/tooltip): A popover that displays a brief description when a user hovers over an element.
 
----
-
 #### **Input & Form Components**
 
 14. [**checkbox**](https://ui.shadcn.com/docs/components/checkbox): A control that allows the user to select one or more options.
@@ -72,8 +70,6 @@ Below is a categorized list of the available components, with direct links to th
 18. [**select**](https://ui.shadcn.com/docs/components/select): A dropdown list for selecting a single option.
 19. [**textarea**](https://ui.shadcn.com/docs/components/textarea): A multiline text input field.
 
----
-
 #### **UI & Indicators**
 
 20. [**progress**](https://ui.shadcn.com/docs/components/progress): A bar that indicates the completion status of a process.
@@ -81,8 +77,6 @@ Below is a categorized list of the available components, with direct links to th
 22. [**skeleton**](https://ui.shadcn.com/docs/components/skeleton): A placeholder component used to indicate a loading state.
 23. [**sonner**](https://ui.shadcn.com/docs/components/sonner): A toast notification for displaying alerts and messages.
 24. [**table**](https://ui.shadcn.com/docs/components/table): A component for displaying data in a table format.
-
----
 
 #### **Overlay & Modal Components**
 
