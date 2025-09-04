@@ -43,45 +43,52 @@ npx shadcn-ui@latest add button alert-dialog avatar badge breadcrumb card chart 
 ### Component Documentation
 
 Below is a categorized list of the available components, with direct links to their official documentation. You can use these links to learn more about each component's usage, props, and examples.
+[https://ui.shadcn.com/docs/components](https://ui.shadcn.com/docs/components)
 
 #### **Basic & Navigation Components**
 
-1.  **button:** A command button that triggers an action. [https://ui.shadcn.com/docs/components/button](https://ui.shadcn.com/docs/components/button)
-2.  **alert-dialog:** A modal dialog that interrupts the user with an important message. [https://ui.shadcn.com/docs/components/alert-dialog](https://ui.shadcn.com/docs/components/alert-dialog)
-3.  **avatar:** A user profile image or initials. [https://ui.shadcn.com/docs/components/avatar](https://ui.shadcn.com/docs/components/avatar)
-4.  **badge:** A small count or label. [https://ui.shadcn.com/docs/components/badge](https://ui.shadcn.com/docs/components/badge)
-5.  **breadcrumb:** Indicates the current page's location within a navigational hierarchy. [https://ui.shadcn.com/docs/components/breadcrumb](https://ui.shadcn.com/docs/components/breadcrumb)
-6.  **card:** A flexible container for displaying related content. [https://ui.shadcn.com/docs/components/card](https://ui.shadcn.com/docs/components/card)
-7.  **chart:** Displays data in a visual format. [https://ui.shadcn.com/docs/components/chart](https://ui.shadcn.com/docs/components/chart)
-8.  **collapsible:** A component that can be expanded or collapsed to show or hide content. [https://ui.shadcn.com/docs/components/collapsible](https://ui.shadcn.com/docs/components/collapsible)
-9.  **dropdown-menu:** A menu that appears when a button is clicked. [https://ui.shadcn.com/docs/components/dropdown-menu](https://ui.shadcn.com/docs/components/dropdown-menu)
-10. **tabs:** A set of layered sections of content. [https://ui.shadcn.com/docs/components/tabs](https://ui.shadcn.com/docs/components/tabs)
-11. **toggle-group:** A set of interactive toggle buttons. [https://ui.shadcn.com/docs/components/toggle-group](https://ui.shadcn.com/docs/components/toggle-group)
-12. **toggle:** A two-state button that can be either on or off. [https://ui.shadcn.com/docs/components/toggle](https://ui.shadcn.com/docs/components/toggle)
-13. **tooltip:** A popover that displays a brief description when a user hovers over an element. [https://ui.shadcn.com/docs/components/tooltip](https://ui.shadcn.com/docs/components/tooltip)
+1.  [**button**](https://ui.shadcn.com/docs/components/button): A command button that triggers an action.
+2.  [**alert-dialog**](https://ui.shadcn.com/docs/components/alert-dialog): A modal dialog that interrupts the user with an important message.
+3.  [**avatar**](https://ui.shadcn.com/docs/components/avatar): A user profile image or initials.
+4.  [**badge**](https://ui.shadcn.com/docs/components/badge): A small count or label.
+5.  [**breadcrumb**](https://ui.shadcn.com/docs/components/breadcrumb): Indicates the current page's location within a navigational hierarchy.
+6.  [**card**](https://ui.shadcn.com/docs/components/card): A flexible container for displaying related content.
+7.  [**chart**](https://ui.shadcn.com/docs/components/chart): Displays data in a visual format.
+8.  [**collapsible**](https://ui.shadcn.com/docs/components/collapsible): A component that can be expanded or collapsed to show or hide content.
+9.  [**dropdown-menu**](https://ui.shadcn.com/docs/components/dropdown-menu): A menu that appears when a button is clicked.
+10. [**tabs**](https://ui.shadcn.com/docs/components/tabs): A set of layered sections of content.
+11. [**toggle-group**](https://ui.shadcn.com/docs/components/toggle-group): A set of interactive toggle buttons.
+12. [**toggle**](https://ui.shadcn.com/docs/components/toggle): A two-state button that can be either on or off.
+13. [**tooltip**](https://ui.shadcn.com/docs/components/tooltip): A popover that displays a brief description when a user hovers over an element.
+
+---
 
 #### **Input & Form Components**
 
-14. **checkbox:** A control that allows the user to select one or more options. [https://ui.shadcn.com/docs/components/checkbox](https://ui.shadcn.com/docs/components/checkbox)
-15. **form:** A container for input fields. [https://ui.shadcn.com/docs/components/form](https://ui.shadcn.com/docs/components/form)
-16. **input-otp:** An input field for One-Time Passcodes (OTP). [https://ui.shadcn.com/docs/components/input-otp](https://ui.shadcn.com/docs/components/input-otp)
-17. **label:** A label for an input field. [https://ui.shadcn.com/docs/components/label](https://ui.shadcn.com/docs/components/label)
-18. **select:** A dropdown list for selecting a single option. [https://ui.shadcn.com/docs/components/select](https://ui.shadcn.com/docs/components/select)
-19. **textarea:** A multiline text input field. [https://ui.shadcn.com/docs/components/textarea](https://ui.shadcn.com/docs/components/textarea)
+14. [**checkbox**](https://ui.shadcn.com/docs/components/checkbox): A control that allows the user to select one or more options.
+15. [**form**](https://ui.shadcn.com/docs/components/form): A container for input fields.
+16. [**input-otp**](https://ui.shadcn.com/docs/components/input-otp): An input field for One-Time Passcodes (OTP).
+17. [**label**](https://ui.shadcn.com/docs/components/label): A label for an input field.
+18. [**select**](https://ui.shadcn.com/docs/components/select): A dropdown list for selecting a single option.
+19. [**textarea**](https://ui.shadcn.com/docs/components/textarea): A multiline text input field.
+
+---
 
 #### **UI & Indicators**
 
-20. **progress:** A bar that indicates the completion status of a process. [https://ui.shadcn.com/docs/components/progress](https://ui.shadcn.com/docs/components/progress)
-21. **separator:** A visual divider to separate content. [https://ui.shadcn.com/docs/components/separator](https://ui.shadcn.com/docs/components/separator)
-22. **skeleton:** A placeholder component used to indicate a loading state. [https://ui.shadcn.com/docs/components/skeleton](https://ui.shadcn.com/docs/components/skeleton)
-23. **sonner:** A toast notification for displaying alerts and messages. [https://ui.shadcn.com/docs/components/sonner](https://ui.shadcn.com/docs/components/sonner)
-24. **table:** A component for displaying data in a table format. [https://ui.shadcn.com/docs/components/table](https://ui.shadcn.com/docs/components/table)
+20. [**progress**](https://ui.shadcn.com/docs/components/progress): A bar that indicates the completion status of a process.
+21. [**separator**](https://ui.shadcn.com/docs/components/separator): A visual divider to separate content.
+22. [**skeleton**](https://ui.shadcn.com/docs/components/skeleton): A placeholder component used to indicate a loading state.
+23. [**sonner**](https://ui.shadcn.com/docs/components/sonner): A toast notification for displaying alerts and messages.
+24. [**table**](https://ui.shadcn.com/docs/components/table): A component for displaying data in a table format.
+
+---
 
 #### **Overlay & Modal Components**
 
-25. **dialog:** A floating dialog box that displays content on top of the main screen. [https://ui.shadcn.com/docs/components/dialog](https://ui.shadcn.com/docs/components/dialog)
-26. **drawer:** A panel that slides in from the edge of the screen. [https://ui.shadcn.com/docs/components/drawer](https://ui.shadcn.com/docs/components/drawer)
-27. **sheet:** A dialog that slides in from the side of the screen. [https://ui.shadcn.com/docs/components/sheet](https://ui.shadcn.com/docs/components/sheet)
+25. [**dialog**](https://ui.shadcn.com/docs/components/dialog): A floating dialog box that displays content on top of the main screen.
+26. [**drawer**](https://ui.shadcn.com/docs/components/drawer): A panel that slides in from the edge of the screen.
+27. [**sheet**](https://ui.shadcn.com/docs/components/sheet): A dialog that slides in from the side of the screen.
 
 ---
 
