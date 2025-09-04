@@ -2,17 +2,13 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+To set up the project, run the **CLI wizard** using the command below. You'll be presented with a series of questions to configure your project, such as choosing your preferred linter, styling framework, and directory structure.
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npx create-next-app@latest
 ```
+
+choose
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
